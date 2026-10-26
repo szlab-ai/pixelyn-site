@@ -1,0 +1,12 @@
+{
+  "zh": [
+    "Pixelyn 不收集、不上传任何数据，没有账号、广告、统计或第三方 SDK，也不联网。",
+    "只在这台 Apple TV 上保存：显示器名称、上次停留的 Tab、每项检测上次的子图案、自动推进开关、语言选择。删除 App 即全部清除。“恢复默认设置”会清除记住的选择、开启自动推进并恢复跟随系统语言，保留当前设置 Tab。",
+    "屏幕参数是每次打开时向系统读取的当前值，不保存，也不发送到任何地方。"
+  ],
+  "en": [
+    "Pixelyn does not collect or upload any data. There are no accounts, ads, analytics or third-party SDKs. The app does not connect to the internet.",
+    "Five preferences are saved only on this Apple TV: display name, last tab, last pattern for each test, Auto-Advance and language. Deleting the app removes them all. Reset Settings clears your choices, turns Auto-Advance on and follows the system language, keeping you on the Settings tab.",
+    "Screen information is read from the system each time you open the app. It is not saved or sent anywhere."
+  ]
+}
